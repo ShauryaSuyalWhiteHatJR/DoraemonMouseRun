@@ -1,0 +1,35 @@
+ELEMENTS OF GAME DESIGN
+
+1.Characters - PC and NPC
+2.Story
+3.Goals
+4.Rules
+5.Balance - NOR EASY NEITHER DIFFICULT
+6.Adaptivity
+7.Chance vs Skill
+8.Feedback - score and sound and music
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
